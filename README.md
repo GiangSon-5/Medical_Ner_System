@@ -27,7 +27,6 @@ Xây dựng hệ thống **Named Entity Recognition (NER)** chuyên biệt nhậ
 - **Dataset**: MACCROBAT2020 (Medical Annotation Corpus for Clinical Records)
 - **Định dạng**: `.txt` (văn bản) + `.ann` (annotation)
 - **Số lượng**: ~1000+ tài liệu y khoa
-- **Nhãn**: 8 loại thực thể (Age, Sex, Disease_disorder, Therapeutic_procedure, v.v.)
 
 ### Thành Tích
 - ✅ **Độ chính xác cuối cùng**: **80.79%**
